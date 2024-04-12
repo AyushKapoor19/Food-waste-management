@@ -225,6 +225,9 @@ The use case diagram illustrates the Surplus Food Management System's notificati
 
 ## 6.6 Bonus Functionality
 
+A bonus feature is that Consumer and Charitable Organization are able to give feedback to the retailer and the retailer is able to view them through the view feedback tab.
+
+
 # Detailed Design
 
 When we're building software, it's important to map out how everything fits together. That's where detailed design comes in. It's like creating a blueprint for a house before you start building it. One essential part of detailed design is making UML diagrams. These diagrams help us see the big picture of our software by showing us the different parts and how they connect.
